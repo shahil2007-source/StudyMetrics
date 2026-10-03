@@ -1,0 +1,37 @@
+# Next.js
+.next/
+out/
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Temporary files
+temp/
+# Next.js
+.next/
+out/
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.env.local
+
+# System
+.DS_Store

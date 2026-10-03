@@ -1,0 +1,121 @@
+student_id,age,gender,course,social_media_hours,study_hours,academic_marks,platform,sleep_hours,attendance
+STU1001,20,Female,Psychology,2.7,7.6,90.6,Instagram,6.0,78.12
+STU1002,21,Female,Computer Science,1.8,7.7,96.2,Reddit,8.0,82.9
+STU1003,22,Male,Computer Science,6.5,4.7,76.0,Reddit,5.8,73.2
+STU1004,24,Female,Business Administration,0.8,8.9,98.5,TikTok,6.4,94.1
+STU1005,20,Female,Medicine,3.3,5.6,79.8,Instagram,5.9,68.3
+STU1006,25,Male,Medicine,4.3,6.2,92.0,Reddit,7.0,81.7
+STU1007,22,Female,Data Science,3.9,6.7,84.8,TikTok,7.2,83.1
+STU1008,22,Male,Business Administration,2.6,7.8,98.5,LinkedIn,6.6,92.9
+STU1009,24,Female,Engineering,3.2,7.7,98.5,LinkedIn,7.7,97.7
+STU1010,19,Prefer not to say,Medicine,2.8,5.7,83.3,Snapchat,6.0,88.7
+STU1011,20,Male,Psychology,2.7,5.3,87.3,Instagram,7.3,80.6
+STU1012,24,Female,Arts & Design,4.7,7.7,91.9,TikTok,5.9,80.5
+STU1013,20,Female,Business Administration,4.0,6.9,92.9,Snapchat,6.5,97.6
+STU1014,20,Male,Arts & Design,2.5,6.3,82.7,TikTok,7.4,85.5
+STU1015,25,Male,Computer Science,4.8,8.0,86.8,Instagram,6.1,86.9
+STU1016,22,Male,Psychology,3.9,6.7,85.8,YouTube,6.7,84.0
+STU1017,21,Male,Psychology,4.6,7.6,90.3,Reddit,7.6,86.8
+STU1018,25,Female,Computer Science,4.4,6.4,87.0,YouTube,6.4,81.9
+STU1019,25,Female,Business Administration,2.3,9.8,98.5,YouTube,8.1,93.0
+STU1020,20,Female,Computer Science,2.7,9.2,94.3,Instagram,6.4,90.9
+STU1021,23,Male,Arts & Design,4.5,5.9,84.6,YouTube,7.3,80.8
+STU1022,22,Male,Data Science,4.4,7.5,93.4,LinkedIn,8.1,83.2
+STU1023,19,Female,Psychology,3.5,7.5,91.8,Instagram,5.2,83.8
+STU1024,25,Female,Mathematics,3.7,8.3,98.5,TikTok,6.4,90.0
+STU1025,21,Female,Mathematics,5.3,4.7,79.0,Snapchat,7.1,74.9
+STU1026,23,Female,Arts & Design,2.7,8.0,98.5,YouTube,7.2,97.5
+STU1027,23,Male,Engineering,4.3,7.6,88.1,YouTube,7.2,73.3
+STU1028,19,Male,Medicine,3.2,4.8,74.0,YouTube,6.7,85.0
+STU1029,25,Male,Computer Science,3.2,5.5,87.4,TikTok,7.3,87.9
+STU1030,21,Female,Computer Science,5.0,3.5,69.3,Instagram,6.6,62.7
+STU1031,22,Female,Engineering,4.7,5.8,83.8,X (Twitter),7.8,78.8
+STU1032,18,Male,Engineering,4.6,7.0,81.2,X (Twitter),7.0,82.3
+STU1033,21,Male,Arts & Design,5.3,7.6,81.9,Snapchat,6.9,77.9
+STU1034,19,Male,Arts & Design,3.5,6.8,92.7,Reddit,6.8,81.3
+STU1035,23,Male,Engineering,4.5,8.2,91.0,TikTok,6.5,82.4
+STU1036,22,Male,Psychology,3.1,5.3,88.1,TikTok,6.9,90.1
+STU1037,21,Male,Arts & Design,4.0,4.5,79.1,X (Twitter),7.3,82.2
+STU1038,18,Female,Data Science,3.3,6.8,90.5,YouTube,6.8,91.7
+STU1039,18,Female,Arts & Design,3.6,7.1,95.4,YouTube,7.3,89.6
+STU1040,20,Female,Computer Science,4.3,6.3,83.1,X (Twitter),8.6,76.7
+STU1041,20,Female,Arts & Design,2.4,4.8,84.3,Snapchat,8.1,78.4
+STU1042,24,Male,Psychology,6.4,5.2,72.1,TikTok,6.1,78.3
+STU1043,19,Female,Engineering,2.1,5.9,86.8,TikTok,8.4,78.4
+STU1044,25,Male,Computer Science,1.8,8.4,98.5,Instagram,7.2,96.1
+STU1045,21,Male,Arts & Design,5.1,6.4,81.6,YouTube,5.1,80.3
+STU1046,21,Female,Psychology,4.6,5.1,75.0,Instagram,6.0,76.4
+STU1047,25,Female,Data Science,4.4,5.7,86.4,TikTok,5.4,84.1
+STU1048,24,Male,Arts & Design,4.4,5.0,75.0,TikTok,6.6,80.8
+STU1049,23,Female,Psychology,3.5,6.7,87.4,Instagram,7.1,83.0
+STU1050,23,Female,Data Science,2.2,8.5,98.5,YouTube,8.8,98.0
+STU1051,24,Female,Engineering,3.6,5.5,88.9,Instagram,7.4,75.7
+STU1052,23,Female,Arts & Design,2.6,7.8,97.4,Instagram,7.2,92.7
+STU1053,20,Male,Data Science,4.9,5.4,85.4,X (Twitter),7.4,82.0
+STU1054,21,Male,Computer Science,3.3,5.9,76.6,TikTok,5.4,81.2
+STU1055,24,Male,Engineering,2.3,7.2,95.7,Instagram,7.6,89.7
+STU1056,21,Male,Computer Science,3.1,5.7,89.1,TikTok,7.9,76.4
+STU1057,25,Male,Mathematics,4.1,5.8,83.0,X (Twitter),5.8,85.9
+STU1058,18,Female,Business Administration,2.7,5.7,92.1,Instagram,8.2,82.1
+STU1059,20,Male,Arts & Design,2.3,9.7,98.5,YouTube,7.7,92.9
+STU1060,22,Male,Data Science,3.8,6.6,94.4,Instagram,6.7,89.3
+STU1061,20,Male,Business Administration,3.8,5.7,93.7,Instagram,7.5,77.9
+STU1062,24,Male,Business Administration,2.8,7.4,92.6,TikTok,9.1,80.9
+STU1063,22,Female,Data Science,2.8,6.9,88.1,TikTok,7.4,78.8
+STU1064,18,Female,Engineering,3.8,6.3,93.5,YouTube,7.2,86.3
+STU1065,24,Female,Arts & Design,1.5,8.5,98.5,YouTube,7.3,86.9
+STU1066,19,Female,Mathematics,1.5,8.6,98.5,LinkedIn,6.9,100.0
+STU1067,21,Male,Computer Science,2.5,6.6,87.8,TikTok,8.0,75.7
+STU1068,18,Male,Psychology,3.2,6.2,86.9,TikTok,6.5,92.3
+STU1069,21,Female,Computer Science,3.9,6.2,79.5,X (Twitter),7.1,83.8
+STU1070,23,Male,Psychology,5.6,3.0,61.9,Instagram,6.2,70.0
+STU1071,19,Female,Computer Science,4.7,4.3,70.4,TikTok,7.2,73.2
+STU1072,19,Female,Data Science,3.3,8.5,94.4,Instagram,7.4,92.6
+STU1073,18,Female,Mathematics,3.5,8.7,98.5,Instagram,8.0,90.8
+STU1074,19,Female,Arts & Design,2.1,7.2,96.1,LinkedIn,7.1,93.8
+STU1075,22,Non-Binary,Psychology,3.5,7.5,98.5,Snapchat,6.9,87.7
+STU1076,19,Female,Arts & Design,3.1,7.3,87.2,YouTube,6.4,88.1
+STU1077,21,Male,Arts & Design,4.0,10.2,98.5,TikTok,6.7,92.9
+STU1078,21,Male,Arts & Design,2.3,8.7,98.5,Instagram,7.7,92.2
+STU1079,24,Female,Medicine,4.2,6.2,85.4,Instagram,7.5,83.9
+STU1080,21,Non-Binary,Engineering,5.6,4.5,73.7,Instagram,5.9,66.6
+STU1081,24,Non-Binary,Computer Science,3.3,4.9,75.5,TikTok,7.9,72.9
+STU1082,21,Female,Arts & Design,4.1,6.7,90.9,YouTube,8.1,87.8
+STU1083,22,Male,Computer Science,4.5,5.4,81.4,YouTube,7.2,80.2
+STU1084,25,Female,Arts & Design,2.9,5.3,87.9,Instagram,8.8,80.6
+STU1085,24,Female,Psychology,3.8,5.8,84.5,Reddit,6.4,81.8
+STU1086,20,Female,Engineering,3.5,5.4,93.3,YouTube,6.1,82.8
+STU1087,23,Male,Engineering,3.6,8.7,92.0,YouTube,5.7,88.0
+STU1088,18,Male,Data Science,2.4,8.3,97.1,YouTube,8.6,87.5
+STU1089,21,Female,Medicine,3.5,6.7,86.7,TikTok,7.6,85.8
+STU1090,19,Female,Data Science,4.2,8.2,89.7,Instagram,6.9,83.3
+STU1091,25,Male,Data Science,5.5,5.8,77.1,TikTok,6.8,81.2
+STU1092,21,Female,Data Science,4.8,5.0,80.3,X (Twitter),5.9,69.4
+STU1093,19,Female,Data Science,6.5,7.1,91.9,Instagram,8.3,86.6
+STU1094,23,Male,Data Science,2.4,7.9,95.0,Instagram,7.5,92.5
+STU1095,23,Prefer not to say,Mathematics,4.7,4.9,74.0,Instagram,6.9,78.9
+STU1096,23,Female,Engineering,3.8,6.4,90.4,Instagram,7.6,88.5
+STU1097,19,Male,Data Science,6.6,4.2,68.8,Snapchat,6.7,81.0
+STU1098,21,Male,Arts & Design,2.4,5.7,91.2,YouTube,7.6,88.5
+STU1099,23,Female,Engineering,2.3,8.4,97.8,TikTok,6.8,82.7
+STU1100,22,Male,Engineering,2.7,9.5,95.4,Instagram,7.7,88.0
+STU1101,24,Female,Business Administration,0.5,6.6,98.5,TikTok,9.4,85.8
+STU1102,19,Male,Mathematics,2.8,7.8,98.5,TikTok,8.4,89.4
+STU1103,19,Male,Data Science,2.4,6.5,89.9,Instagram,8.7,88.4
+STU1104,21,Male,Computer Science,3.7,6.1,82.3,TikTok,6.7,79.0
+STU1105,19,Female,Psychology,4.0,5.8,83.9,TikTok,6.2,82.4
+STU1106,19,Male,Medicine,6.1,4.4,72.0,YouTube,6.4,70.2
+STU1107,23,Female,Arts & Design,4.8,6.1,85.0,YouTube,6.8,78.1
+STU1108,21,Female,Computer Science,2.7,6.2,97.1,Instagram,8.2,77.4
+STU1109,23,Female,Mathematics,2.2,7.7,93.1,TikTok,6.1,85.1
+STU1110,24,Male,Psychology,4.2,6.3,81.7,YouTube,8.2,76.0
+STU1111,25,Male,Mathematics,1.7,7.4,89.3,TikTok,7.5,84.8
+STU1112,24,Female,Arts & Design,6.1,4.4,68.8,Snapchat,6.1,79.3
+STU1113,25,Male,Engineering,5.2,5.2,75.6,YouTube,5.9,73.2
+STU1114,23,Female,Psychology,2.8,8.0,98.5,Instagram,6.0,100.0
+STU1115,24,Male,Engineering,1.1,8.6,98.5,Instagram,8.4,96.5
+STU1116,21,Female,Arts & Design,5.4,4.6,75.7,YouTube,6.7,76.7
+STU1117,18,Male,Computer Science,3.3,6.9,88.0,Instagram,6.1,81.5
+STU1118,23,Female,Arts & Design,5.2,6.8,89.1,YouTube,5.7,86.0
+STU1119,25,Male,Computer Science,1.3,5.9,98.5,Reddit,7.4,82.8
+STU1120,22,Female,Psychology,2.7,7.8,95.2,YouTube,8.7,90.1
