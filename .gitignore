@@ -35,3 +35,4 @@ venv/
 
 # System
 .DS_Store
+.vercel
